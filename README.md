@@ -20,3 +20,22 @@ This folder contains the Level 2 tasks completed during my Data Science Internsh
 - Pandas
 - Matplotlib
 - Google Colab
+# Level 2 - Task 2: Price Range Analysis
+
+## Objective
+Analyze restaurant price ranges and their relationship with average ratings.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+## Steps Performed
+- Identified the most common price range among restaurants.
+- Calculated the average aggregate rating for each price range.
+- Determined the rating color associated with the highest average rating.
+- Visualized the results using bar charts.
+
+## Conclusion
+This analysis provided insights into restaurant pricing patterns and showed how average ratings vary across different price ranges. It also identified the rating color representing the highest average rating.
