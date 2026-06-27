@@ -39,3 +39,23 @@ Analyze restaurant price ranges and their relationship with average ratings.
 
 ## Conclusion
 This analysis provided insights into restaurant pricing patterns and showed how average ratings vary across different price ranges. It also identified the rating color representing the highest average rating.
+# Level 2 - Task 3: Feature Engineering
+
+## Objective
+Create new features from existing columns to improve data analysis and machine learning readiness.
+
+## Tools Used
+- Python
+- Pandas
+- Google Colab
+
+## Steps Performed
+- Extracted the length of the restaurant name.
+- Extracted the length of the restaurant address.
+- Encoded the "Has Table booking" column into numerical values (Yes = 1, No = 0).
+- Encoded the "Has Online delivery" column into numerical values (Yes = 1, No = 0).
+- Displayed the newly created features.
+- Saved the updated dataset.
+
+## Conclusion
+Feature engineering was successfully performed by creating new numerical features from existing text and categorical columns. These features can improve further data analysis and machine learning models.
